@@ -1,0 +1,9 @@
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\bin\Debug\Calculo média.exe.config
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\bin\Debug\Calculo média.exe
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\bin\Debug\Calculo média.pdb
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\obj\Debug\Calculo média.csprojResolveAssemblyReference.cache
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\obj\Debug\Calculo_média.Form1.resources
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\obj\Debug\Calculo_média.Properties.Resources.resources
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\obj\Debug\Calculo média.csproj.GenerateResource.Cache
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\obj\Debug\Calculo média.exe
+C:\Users\Russo\Documents\Visual Studio 2013\Projects\Calculo média\Calculo média\obj\Debug\Calculo média.pdb
